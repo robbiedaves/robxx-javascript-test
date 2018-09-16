@@ -1,20 +1,5 @@
 import './index.css';
-// import numeral from 'numeral';
-// import {getUsers, deleteUser} from './api/userApi';
 
-// window.$ = $;
-// window.jQuery = jQuery;
-//import $ from 'jquery';
-
-// $( document ).ready(function() {
- 
-//   //  $( "a" ).click(function( event ) {
- 
-//         alert( "Thanks for visiting!" );
- 
-//   //  });
- 
-// });
 
 $(document).ready(function() {
     $('#btnChange').click(function() {
